@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  Acesse a Caculadora Clicando <a target="_blank" href="https://eltonalmeid.github.io/calculadoraDigital/">AQUI</a>.
+  Acesse a Caculadora Clicando <a target="_blank" href="https://eltonalmeid.github.io/calculadoraDigital/">AQUI</a>
 </h2>
 
 <div align="center">
