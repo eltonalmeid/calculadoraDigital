@@ -4,6 +4,10 @@
   <img alt="mockup" src=".github/calculadoraMobile.png" width="100%">
 </p>
 
+<h2 align="center">
+  Acesse a Caculadora Clicando <a target="_blank" href="https://eltonalmeid.github.io/calculadoraDigital/">AQUI</a>! :stuck_out_tongue_closed_eyes:
+</h2>
+
 <div align="center">
    Projeto desenvolvido com conhecimentos de tecnologias HTML, e CSS
 </div>
